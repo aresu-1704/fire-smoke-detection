@@ -1,0 +1,15 @@
+# Fire Detection Demo - Dependencies
+# =====================================
+
+# YOLOv8 framework (bao gồm training, inference, và utilities)
+ultralytics>=8.0.0
+
+# Computer vision và video processing
+opencv-python>=4.8.0
+
+# Numerical operations
+numpy>=1.24.0
+
+# Optional: GPU acceleration (nếu có CUDA)
+# torch>=2.0.0
+# torchvision>=0.15.0
